@@ -1,4 +1,4 @@
-# Humfhrie E-commerce Project
+# Sabo E-commerce Project
 
 A stunning Ecommerce project built with typescript, nextjs, reactjs, and payload.
 
